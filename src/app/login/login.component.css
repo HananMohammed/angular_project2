@@ -1,0 +1,60 @@
+/* *********** The Login page style Starts HERE ***************** */
+.card-body{
+    width: 30%;
+    border: 3px solid grey;
+    border-radius: 15%;
+    margin-left: 17%;
+    margin-top: 40px;
+    line-height: 50px;
+  }
+  .card-body a{
+    color: rgb(83, 66, 158);
+  }
+  .card-title{
+    color: white;
+    text-align: center;
+    opacity: 0.8;
+    margin-top: 20px;
+  }
+  .card-text{
+    color: white;
+    text-align: center;
+  }
+  .form-control{
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+    opacity: 0.8;
+  }
+  .row{
+    text-align: center;
+  }
+  .row div{
+    width: 80%;
+    margin-bottom: 20px;
+    margin-left: 10%;
+  }
+  
+  form button{
+    width:100%;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(0, 84, 174);
+    color: white;
+    opacity: 0.8;
+    font-size: 20px;
+  }
+  
+  .form-check{
+    width:90%;
+    margin-left: 50px;
+  }
+  .form-check-label{
+    color: white;
+  }
+  .text2{
+    text-align: center;
+    color: white;
+    font-size: 20px;margin-right: 60%;
+  }
+  /* ************ The Login Page Style Ends Here ****************** */
